@@ -1,6 +1,4 @@
 # portifolio
-Breve portifólio sobre meus projetos.
+Uma breve apresentação sobre mim e trabalhos criados.
 
-Portifólio criado por mim.
-
-Informações sobre mim, contato e projetos criados.
+Informações de contato e sobre mim diretamente nas abas Sobre e Contato.
